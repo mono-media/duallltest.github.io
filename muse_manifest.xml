@@ -1,0 +1,296 @@
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="DUALLLTEST.GITHUB.IO" resolutions="1x" timestamp="1500493651025">
+  <folder name="css">
+    <file name="site_global.css" crc="4291439581"/>
+    <file name="master_www_lauriediannafit_com.css" crc="3927552007" ref="faith-strengthpdf:training:summerbodwlosspdf:index:about:fitfunglutepdf:contact"/>
+    <file name="faith-strengthpdf.css" crc="4180586868" ref="faith-strengthpdf"/>
+    <file name="training.css" crc="3921957226" ref="training"/>
+    <file name="summerbodwlosspdf.css" crc="472774881" ref="summerbodwlosspdf"/>
+    <file name="index.css" crc="4079215792" ref="index"/>
+    <file name="about.css" crc="324497967" ref="about"/>
+    <file name="fitfunglutepdf.css" crc="3763704098" ref="fitfunglutepdf"/>
+    <file name="contact.css" crc="4057262230" ref="contact"/>
+  </folder>
+  <folder name="assets">
+    <file name="pop66.jpg" crc="372874040" seo="true" mt="1499819779000"/>
+    <file name="pop2666.jpg" crc="4165165109" seo="true" mt="1499819961000"/>
+    <file name="pop6662.jpg" crc="284314126" seo="true" mt="1499819871000"/>
+    <file name="ldlogowhite.png" crc="4078512312" seo="true" mt="1499839144000"/>
+    <file name="dddiamond.png" crc="97662196" seo="true" mt="1500011577000"/>
+    <file name="_lmp4833mm.jpg" crc="4283330057" seo="true" mt="1499979123000"/>
+    <file name="_lmp4583mm.jpg" crc="50957738" seo="true" mt="1499979137000"/>
+    <file name="ldlogo.png" crc="3990021883" seo="true" mt="1499759255000"/>
+    <file name="12-week-strength-training-program-(first-one).pdf" crc="4085843451" seo="true" mt="1500444276000"/>
+    <file name="12-week-glute-program-1.pdf" crc="176640780" seo="true" mt="1500444274000"/>
+    <file name="12-week-fat-loss-program-1.pdf" crc="427428960" seo="true" mt="1500444278000"/>
+    <file name="arrow2.png" crc="3908413671" seo="true" mt="1499843486000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>about:phone>training:phone>contact:tablet>index:tablet>portfolio:tablet>my-story:tablet>contact:index:training:about:contact:faith-strengthpdf:fitfunglutepdf:summerbodwlosspdf"/>
+    <file name="museutils.js" crc="4216313831" ref="phone>index:phone>about:phone>training:phone>contact:tablet>index:tablet>portfolio:tablet>my-story:tablet>contact:index:training:about:contact:faith-strengthpdf:fitfunglutepdf:summerbodwlosspdf"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>about:phone>training:phone>contact:tablet>index:tablet>portfolio:tablet>my-story:tablet>contact:index:training:about:contact:faith-strengthpdf:fitfunglutepdf:summerbodwlosspdf"/>
+    <file name="museconfig.js" crc="474374037" ref="phone>index:phone>about:phone>training:phone>contact:tablet>index:tablet>portfolio:tablet>my-story:tablet>contact:index:training:about:contact:faith-strengthpdf:fitfunglutepdf:summerbodwlosspdf"/>
+    <file name="webpro.js" crc="4143865194" ref="phone>index:phone>about:phone>training:phone>contact:tablet>index:tablet>portfolio:tablet>contact:training:contact"/>
+    <file name="musewpslideshow.js" crc="3781122836" ref="phone>index:phone>about:phone>training:phone>contact:tablet>index:tablet>portfolio:training"/>
+    <file name="jquery.museoverlay.js" crc="4030747646" ref="phone>index:phone>about:phone>training:phone>contact:tablet>index:tablet>portfolio:training"/>
+    <file name="touchswipe.js" crc="4200445185" ref="phone>index:phone>about:phone>training:phone>contact:tablet>index:tablet>portfolio:training"/>
+    <file name="jquery.watch.js" crc="460461809" ref="phone>index:phone>about:phone>training:phone>contact:tablet>index:tablet>portfolio:tablet>my-story:tablet>contact:index:training:about:contact:faith-strengthpdf:fitfunglutepdf:summerbodwlosspdf"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4110862005" ref="phone>index:tablet>index:tablet>my-story:index:training:about:contact"/>
+    <file name="jquery.scrolleffects.js" crc="128250821" ref="phone>index:phone>about:phone>training:phone>contact"/>
+    <file name="require.js" crc="3951022091" ref="phone>index:phone>about:phone>training:phone>contact:tablet>index:tablet>portfolio:tablet>my-story:tablet>contact:index:training:about:contact:faith-strengthpdf:fitfunglutepdf:summerbodwlosspdf"/>
+    <file name="jquery.musemenu.js" crc="493622299" ref="tablet>index:tablet>portfolio:tablet>my-story:tablet>contact"/>
+    <file name="html5shiv.js" crc="4241844378" ref="tablet>index:tablet>portfolio:tablet>my-story:tablet>contact:index:training:about:contact:faith-strengthpdf:fitfunglutepdf:summerbodwlosspdf"/>
+    <file name="form_check.php" crc="154010282" ref="tablet>contact"/>
+    <file name="form_throttle.php" crc="266437015" ref="tablet>contact"/>
+    <file name="form_process.php" crc="512629711" ref="tablet>contact"/>
+    <file name="form-u4111.php" crc="3907017316" ref="tablet>contact"/>
+    <file name="musewpdisclosure.js" crc="4050941203" ref="training"/>
+    <file name="form-u1114.php" crc="4928879" ref="contact"/>
+  </folder>
+  <folder name="images">
+    <file name="www.lauriediannafit.com-favicon.ico" crc="435170239" ref="phone>index"/>
+    <file name="photo jul 20, 7 01 34 pm-crop-u15142.png" crc="510244776" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="phone>index:tablet>portfolio:index:training"/>
+    <file name="2017-06-0394x74.png" crc="4123242422" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dot hatch fine.png" crc="3911273588" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatisldf-u15378.png" crc="117486435" ref="phone>index"/>
+    <file name="whatisldf-crop-u15489.png" crc="4092325468" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ldfiticon.png" crc="403991080" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt="Find out more about my Training Services! Click here "/>
+    </file>
+    <file name="facebook_alt-u15579.png" crc="464289010" ref="phone>index:phone>about:phone>training:phone>contact"/>
+    <file name="twitter-u15663.png" crc="149012869" ref="phone>index:phone>about:phone>training:phone>contact"/>
+    <file name="linkedin-u15597.png" crc="231041237" ref="phone>index:phone>about:phone>training:phone>contact"/>
+    <file name="paypal-u15615.png" crc="320749004" ref="phone>index:phone>about:phone>training:phone>contact"/>
+    <file name="apple-u15553.png" crc="3767908148" ref="phone>index:phone>about:phone>training:phone>contact"/>
+    <file name="pen_01.jpg" crc="160798044" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pen_02.jpg" crc="246221640" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pen_03.jpg" crc="4093020180" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pen_04.jpg" crc="3934762509" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pen_05.jpg" crc="4205624203" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="social_00_facebook.png" crc="3898528837" seo="true" ref="tablet>index:tablet>portfolio:tablet>my-story:tablet>contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="my-story" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="social_06_linkedin.png" crc="3888268983" seo="true" ref="tablet>index:tablet>portfolio:tablet>my-story:tablet>contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="my-story" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="social_01_twitter.png" crc="3879413774" seo="true" ref="tablet>index:tablet>portfolio:tablet>my-story:tablet>contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="my-story" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="work_00.jpg" crc="3801519074" seo="true" ref="tablet>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="work_03.jpg" crc="4265294659" seo="true" ref="tablet>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="work_02.jpg" crc="4093013131" seo="true" ref="tablet>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="work_06.jpg" crc="4060898783" seo="true" ref="tablet>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="work_01.jpg" crc="4269102535" seo="true" ref="tablet>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="work_04.jpg" crc="4088456810" seo="true" ref="tablet>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="work_05.jpg" crc="145248940" seo="true" ref="tablet>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="work_07.jpg" crc="64109336" seo="true" ref="tablet>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="work_00-crop-u2607.png" crc="4093564734" seo="true" ref="tablet>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="work_03-crop-u2609.png" crc="115042052" seo="true" ref="tablet>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="work_02-crop-u2613.png" crc="200942216" seo="true" ref="tablet>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="work_06-crop-u2621.png" crc="153569966" seo="true" ref="tablet>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="work_01-crop-u2619.png" crc="3793025821" seo="true" ref="tablet>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="work_04-crop-u2611.png" crc="3996740588" seo="true" ref="tablet>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="work_05-crop-u2617.png" crc="519619566" seo="true" ref="tablet>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="work_07-crop-u2615.png" crc="76852291" seo="true" ref="tablet>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="arrows-mn_arrow_left.png" crc="4126107877" ref="tablet>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="arrows-mn_arrow_right.png" crc="4062137678" ref="tablet>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="arrows-mn_close.png" crc="206776778" ref="tablet>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="tablet>portfolio"/>
+    <file name="pen_06.jpg" crc="96715823" ref="tablet>my-story">
+      <caption webpage="my-story" alt=""/>
+    </file>
+    <file name="favicon.ico" crc="435170239" ref="index"/>
+    <file name="menupic-layer 0.png" crc="3925422362" seo="true" ref="index:training:about:contact:faith-strengthpdf:fitfunglutepdf:summerbodwlosspdf">
+      <caption webpage="training" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="summerbodwlosspdf" alt=""/>
+      <caption webpage="faith-strengthpdf" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="fitfunglutepdf" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="subtle_carbon.png" crc="511857560" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u9734.png" crc="4213201780" ref="index:training:about:contact:faith-strengthpdf:fitfunglutepdf:summerbodwlosspdf"/>
+    <file name="photo jul 20, 7 01 34 pm.jpg" crc="533528980" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2017-06-03.png" crc="3814760212" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u21670.png" crc="4249975455" ref="index"/>
+    <file name="u21670-r.png" crc="4249975455" ref="index"/>
+    <file name="glowingggg.png" crc="3831185568" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dddiamond.png" crc="10260705" seo="true" ref="index:training:about:contact:faith-strengthpdf:fitfunglutepdf:summerbodwlosspdf">
+      <caption webpage="training" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="summerbodwlosspdf" alt=""/>
+      <caption webpage="faith-strengthpdf" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="fitfunglutepdf" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="personal trainer.png" crc="3795543158" ref="training">
+      <caption webpage="training" alt=""/>
+    </file>
+    <file name="personal trainer-u11737-r-fr.png" crc="274474230" ref="training"/>
+    <file name="ldlogowhite-u19649-fr.png" crc="3781874102" ref="training:about"/>
+    <file name="30day.png" crc="3910631562" ref="training">
+      <caption webpage="training" alt=""/>
+    </file>
+    <file name="30day-u11500-r-fr.png" crc="3777465276" ref="training"/>
+    <file name="pexels-photo-196640.jpg" crc="93533724" ref="training">
+      <caption webpage="training" alt=""/>
+    </file>
+    <file name="model-with-kettlebell-sexist-stock.jpg" crc="4076675825" ref="training">
+      <caption webpage="training" alt=""/>
+    </file>
+    <file name="glowbot.png" crc="4131060723" ref="training">
+      <caption webpage="training" alt=""/>
+    </file>
+    <file name="photo-jul-20-7-01-34-pm.jpg" crc="186656737" ref="training">
+      <caption webpage="training" alt=""/>
+    </file>
+    <file name="diettraining.png" crc="455939618" ref="training">
+      <caption webpage="training" alt=""/>
+    </file>
+    <file name="diettraining-u11651-r-fr.png" crc="4224975069" ref="training"/>
+    <file name="mealprep.jpg" crc="137710731" ref="training">
+      <caption webpage="training" alt=""/>
+    </file>
+    <file name="exprogram.png" crc="4265848555" ref="training">
+      <caption webpage="training" alt=""/>
+    </file>
+    <file name="exprogram-u11694-r-fr.png" crc="3935548804" ref="training"/>
+    <file name="60s.png" crc="3775293169" ref="training">
+      <caption webpage="training" alt=""/>
+    </file>
+    <file name="fatloss.png" crc="432419530" ref="training">
+      <caption webpage="training" alt=""/>
+    </file>
+    <file name="glute.jpg" crc="4226944442" ref="training">
+      <caption webpage="training" alt=""/>
+    </file>
+    <file name="about2.jpg" crc="38040115" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="img_0827 copy.jpg" crc="3764911033" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="photo sep 25, 7 37 11 pm.jpg" crc="4293990423" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="img_0782 copy.jpg" crc="4120333744" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="_lmp4538mm.jpg" crc="348099366" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="1268685766socialicons2010-u21477.png" crc="4221891990" ref="contact"/>
+    <file name="_dsf8192mm.jpg" crc="231346533" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="master_a-master.css" crc="409669740" ref="tablet>portfolio:tablet>my-story:tablet>index:tablet>contact"/>
+      <file name="portfolio.css" crc="266066119" ref="tablet>portfolio"/>
+      <file name="my-story.css" crc="124435638" ref="tablet>my-story"/>
+      <file name="index.css" crc="527167167" ref="tablet>index"/>
+      <file name="contact.css" crc="508106942" ref="tablet>contact"/>
+    </folder>
+    <file name="index.html" crc="337731201" seo="true" mt="1500468325451" redirect="true"/>
+    <file name="portfolio.html" crc="4170437979" seo="true" mt="1500468325451" redirect="true"/>
+    <file name="my-story.html" crc="3985639125" seo="true" mt="1500468325451" redirect="true"/>
+    <file name="contact.html" crc="4030474334" seo="true" mt="1500468325451" redirect="true"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_www_lauriediannafit_com.css" crc="4183130059" ref="phone>about:phone>contact:phone>training:phone>index"/>
+      <file name="about.css" crc="325393650" ref="phone>about"/>
+      <file name="contact.css" crc="325393650" ref="phone>contact"/>
+      <file name="training.css" crc="4034549811" ref="phone>training"/>
+      <file name="index.css" crc="4043776798" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="3993038798" seo="true" mt="1500491926821" redirect="true"/>
+    <file name="about.html" crc="530840740" seo="true" mt="1500491926821" redirect="true"/>
+    <file name="training.html" crc="4057946480" seo="true" mt="1500491926821" redirect="true"/>
+    <file name="contact.html" crc="4002241705" seo="true" mt="1500491926821" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="4003282757" seo="true" mt="1500493538204" redirect="true"/>
+  <file name="training.html" crc="3891467202" seo="true" mt="1500493624159" redirect="true"/>
+  <file name="about.html" crc="4109404725" seo="true" mt="1500493538204" redirect="true"/>
+  <file name="contact.html" crc="4181829111" seo="true" mt="1500493538204" redirect="true"/>
+  <file name="faith-strengthpdf.html" crc="4085691310" seo="true" mt="1500493538204" redirect="true"/>
+  <file name="fitfunglutepdf.html" crc="100553854" seo="true" mt="1500493538204" redirect="true"/>
+  <file name="summerbodwlosspdf.html" crc="252508278" seo="true" mt="1500493538204" redirect="true"/>
+</manifest>

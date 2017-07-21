@@ -54,8 +54,9 @@ $form = array(
 			'order' => 4,
 			'type' => 'string',
 			'label' => 'Message',
-			'required' => false,
+			'required' => true,
 			'errors' => array(
+				'required' => 'Field \'Message\' is required.'
 			)
 		),
 		'custom_U10528' => array(

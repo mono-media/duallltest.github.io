@@ -8,12 +8,6 @@
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="https://duallltest.github.io/phone/index.html"/>
     <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="https://duallltest.github.io/tablet/index.html"/>
     <image:image>
-      <image:loc>https://duallltest.github.io/images/photo%20jul%2020,%207%2001%2034%20pm.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://duallltest.github.io/images/2017-06-03.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>https://duallltest.github.io/images/menupic-layer%200.png</image:loc>
     </image:image>
     <image:image>
@@ -21,7 +15,7 @@
     </image:image>
   </url>
   <url>
-    <loc>https://duallltest.github.io/submission-form.html</loc>
+    <loc>https://duallltest.github.io/summerbodwlosspdf.html</loc>
     <lastmod>2017-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -33,7 +27,7 @@
     </image:image>
   </url>
   <url>
-    <loc>https://duallltest.github.io/summerbodwlosspdf.html</loc>
+    <loc>https://duallltest.github.io/submission-form.html</loc>
     <lastmod>2017-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -133,6 +127,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://duallltest.github.io/assets/headeer.jpg</loc>
+    <lastmod>2017-07-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://duallltest.github.io/assets/12-week-glute-program-1.pdf</loc>
     <lastmod>2017-07-19</lastmod>
     <changefreq>weekly</changefreq>
@@ -175,14 +175,14 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://duallltest.github.io/assets/pop66.jpg</loc>
-    <lastmod>2017-07-11</lastmod>
+    <loc>https://duallltest.github.io/assets/aboutpic1.jpg</loc>
+    <lastmod>2017-07-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://duallltest.github.io/assets/aboutpic1.jpg</loc>
-    <lastmod>2017-07-13</lastmod>
+    <loc>https://duallltest.github.io/assets/pop66.jpg</loc>
+    <lastmod>2017-07-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://duallltest.github.io" resolutions="1x" timestamp="1500619669700">
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://duallltest.github.io" resolutions="1x" timestamp="1500619919957">
   <folder name="css">
     <file name="site_global.css" crc="230220866"/>
     <file name="master_www_lauriediannafit_com.css" crc="190591933" ref="contact:training:faith-strengthpdf:fitfunglutepdf:index:submission-form:about:summerbodwlosspdf"/>
@@ -274,10 +274,10 @@
       <file name="my-story.css" crc="302468624" ref="tablet>my-story"/>
       <file name="index.css" crc="297103798" ref="tablet>index"/>
     </folder>
-    <file name="index.html" crc="60419845" seo="true" mt="1500468325451" redirect="true"/>
-    <file name="portfolio.html" crc="188912370" seo="true" mt="1500468325451" redirect="true"/>
-    <file name="my-story.html" crc="3834982930" seo="true" mt="1500468325451" redirect="true"/>
-    <file name="contact.html" crc="3918330816" seo="true" mt="1500468325451" redirect="true"/>
+    <file name="index.html" crc="416217670" seo="true" mt="1500468325451" redirect="true"/>
+    <file name="portfolio.html" crc="3790946383" seo="true" mt="1500468325451" redirect="true"/>
+    <file name="my-story.html" crc="3926275601" seo="true" mt="1500468325451" redirect="true"/>
+    <file name="contact.html" crc="4228341927" seo="true" mt="1500468325451" redirect="true"/>
   </folder>
   <folder name="phone">
     <folder name="css">
@@ -287,17 +287,17 @@
       <file name="index.css" crc="388078601" ref="phone>index"/>
       <file name="about.css" crc="4014324902" ref="phone>about"/>
     </folder>
-    <file name="index.html" crc="390721326" seo="true" mt="1500600807288" redirect="true"/>
-    <file name="about.html" crc="361657529" seo="true" mt="1500600807288" redirect="true"/>
-    <file name="training.html" crc="3882881858" seo="true" mt="1500600807288" redirect="true"/>
-    <file name="contact.html" crc="3797133264" seo="true" mt="1500600807288" redirect="true"/>
+    <file name="index.html" crc="331217227" seo="true" mt="1500600807288" redirect="true"/>
+    <file name="about.html" crc="227795181" seo="true" mt="1500600807288" redirect="true"/>
+    <file name="training.html" crc="3794013709" seo="true" mt="1500600807288" redirect="true"/>
+    <file name="contact.html" crc="3896125260" seo="true" mt="1500600807288" redirect="true"/>
   </folder>
-  <file name="index.html" crc="3777058057" seo="true" mt="1500614336681" redirect="true"/>
-  <file name="training.html" crc="447309119" seo="true" mt="1500619626044" redirect="true"/>
-  <file name="about.html" crc="3841623811" seo="true" mt="1500614336681" redirect="true"/>
-  <file name="contact.html" crc="456592" seo="true" mt="1500614336681" redirect="true"/>
-  <file name="faith-strengthpdf.html" crc="208975972" seo="true" mt="1500614336681" redirect="true"/>
-  <file name="fitfunglutepdf.html" crc="4249621027" seo="true" mt="1500614336681" redirect="true"/>
-  <file name="summerbodwlosspdf.html" crc="109722703" seo="true" mt="1500614336681" redirect="true"/>
-  <file name="submission-form.html" crc="513965982" seo="true" mt="1500614336681" redirect="true"/>
+  <file name="index.html" crc="194678209" seo="true" mt="1500614336681" redirect="true"/>
+  <file name="training.html" crc="4222689506" seo="true" mt="1500619849650" redirect="true"/>
+  <file name="about.html" crc="3965952978" seo="true" mt="1500614336681" redirect="true"/>
+  <file name="contact.html" crc="312715300" seo="true" mt="1500614336681" redirect="true"/>
+  <file name="faith-strengthpdf.html" crc="225924146" seo="true" mt="1500614336681" redirect="true"/>
+  <file name="fitfunglutepdf.html" crc="4264119655" seo="true" mt="1500614336681" redirect="true"/>
+  <file name="summerbodwlosspdf.html" crc="287096280" seo="true" mt="1500614336681" redirect="true"/>
+  <file name="submission-form.html" crc="3938694185" seo="true" mt="1500614336681" redirect="true"/>
 </manifest>

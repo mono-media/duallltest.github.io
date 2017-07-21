@@ -1,15 +1,15 @@
-<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://duallltest.github.io" resolutions="1x" timestamp="1500608056576">
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://duallltest.github.io" resolutions="1x" timestamp="1500616671920">
   <folder name="css">
-    <file name="site_global.css" crc="510210933"/>
-    <file name="master_www_lauriediannafit_com.css" crc="452962552" ref="faith-strengthpdf:fitfunglutepdf:index:summerbodwlosspdf:training:submission-form:about:contact"/>
-    <file name="faith-strengthpdf.css" crc="3942140267" ref="faith-strengthpdf"/>
-    <file name="fitfunglutepdf.css" crc="277920289" ref="fitfunglutepdf"/>
-    <file name="index.css" crc="3876820258" ref="index"/>
-    <file name="summerbodwlosspdf.css" crc="3759411746" ref="summerbodwlosspdf"/>
-    <file name="training.css" crc="3998647131" ref="training"/>
-    <file name="submission-form.css" crc="434497542" ref="submission-form"/>
-    <file name="about.css" crc="4101396160" ref="about"/>
-    <file name="contact.css" crc="4022008080" ref="contact"/>
+    <file name="site_global.css" crc="230220866"/>
+    <file name="master_www_lauriediannafit_com.css" crc="190591933" ref="contact:training:faith-strengthpdf:fitfunglutepdf:index:submission-form:about:summerbodwlosspdf"/>
+    <file name="contact.css" crc="92339707" ref="contact"/>
+    <file name="training.css" crc="470968568" ref="training"/>
+    <file name="faith-strengthpdf.css" crc="244569063" ref="faith-strengthpdf"/>
+    <file name="fitfunglutepdf.css" crc="4110098605" ref="fitfunglutepdf"/>
+    <file name="index.css" crc="3845925653" ref="index"/>
+    <file name="submission-form.css" crc="138918271" ref="submission-form"/>
+    <file name="about.css" crc="3985365029" ref="about"/>
+    <file name="summerbodwlosspdf.css" crc="75466926" ref="summerbodwlosspdf"/>
   </folder>
   <folder name="assets">
     <file name="pop66.jpg" crc="372874040" seo="true" mt="1499819779000"/>
@@ -81,21 +81,21 @@
     </file>
     <file name="social_00_facebook.png" crc="3898528837" seo="true" ref="tablet>index:tablet>portfolio:tablet>my-story:tablet>contact">
       <caption webpage="index" alt=""/>
-      <caption webpage="contact" alt=""/>
       <caption webpage="portfolio" alt=""/>
       <caption webpage="my-story" alt=""/>
+      <caption webpage="contact" alt=""/>
     </file>
     <file name="social_06_linkedin.png" crc="3888268983" seo="true" ref="tablet>index:tablet>portfolio:tablet>my-story:tablet>contact">
       <caption webpage="index" alt=""/>
-      <caption webpage="contact" alt=""/>
       <caption webpage="portfolio" alt=""/>
       <caption webpage="my-story" alt=""/>
+      <caption webpage="contact" alt=""/>
     </file>
     <file name="social_01_twitter.png" crc="3879413774" seo="true" ref="tablet>index:tablet>portfolio:tablet>my-story:tablet>contact">
       <caption webpage="index" alt=""/>
-      <caption webpage="contact" alt=""/>
       <caption webpage="portfolio" alt=""/>
       <caption webpage="my-story" alt=""/>
+      <caption webpage="contact" alt=""/>
     </file>
     <file name="work_00.jpg" crc="3801519074" seo="true" ref="tablet>portfolio">
       <caption webpage="portfolio" alt=""/>
@@ -166,14 +166,14 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="menupic-layer 0.png" crc="3925422362" seo="true" ref="index:training:about:contact:faith-strengthpdf:fitfunglutepdf:summerbodwlosspdf:submission-form">
-      <caption webpage="about" alt=""/>
-      <caption webpage="fitfunglutepdf" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="faith-strengthpdf" alt=""/>
       <caption webpage="submission-form" alt=""/>
+      <caption webpage="faith-strengthpdf" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="fitfunglutepdf" alt=""/>
       <caption webpage="training" alt=""/>
-      <caption webpage="contact" alt=""/>
       <caption webpage="summerbodwlosspdf" alt=""/>
+      <caption webpage="contact" alt=""/>
     </file>
     <file name="subtle_carbon.png" crc="511857560" ref="index">
       <caption webpage="index" alt=""/>
@@ -185,20 +185,24 @@
       <caption webpage="index" alt="Find out more about my Training Services! Click here "/>
     </file>
     <file name="dddiamond.png" crc="10260705" seo="true" ref="index:training:about:contact:faith-strengthpdf:fitfunglutepdf:summerbodwlosspdf:submission-form">
-      <caption webpage="about" alt=""/>
-      <caption webpage="fitfunglutepdf" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="faith-strengthpdf" alt=""/>
       <caption webpage="submission-form" alt=""/>
+      <caption webpage="faith-strengthpdf" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="fitfunglutepdf" alt=""/>
       <caption webpage="training" alt=""/>
-      <caption webpage="contact" alt=""/>
       <caption webpage="summerbodwlosspdf" alt=""/>
+      <caption webpage="contact" alt=""/>
     </file>
+    <file name="personal trainer.png" crc="3795543158" ref="training">
+      <caption webpage="training" alt=""/>
+    </file>
+    <file name="personal trainer-u11737-r-fr.png" crc="274474230" ref="training"/>
+    <file name="ldlogowhite-u19649-fr.png" crc="3781874102" ref="training:about"/>
     <file name="30day.png" crc="3910631562" ref="training">
       <caption webpage="training" alt=""/>
     </file>
     <file name="30day-u11500-r-fr.png" crc="132870317" ref="training"/>
-    <file name="ldlogowhite-u18327-fr.png" crc="3781874102" ref="training:about"/>
     <file name="pexels-photo-196640.jpg" crc="93533724" ref="training">
       <caption webpage="training" alt=""/>
     </file>
@@ -211,6 +215,19 @@
     <file name="photo jul 20, 7 01 38 pm.jpg" crc="421633124" ref="training">
       <caption webpage="training" alt=""/>
     </file>
+    <file name="penne_with_eggplant_and_basil_in_yogurt-tomato_sauce.jpg" crc="442938321" ref="training">
+      <caption webpage="training" alt=""/>
+    </file>
+    <file name="9018429130_edcf1cb212.jpg" crc="126315757" ref="training">
+      <caption webpage="training" alt=""/>
+    </file>
+    <file name="160304-f-zp902-001.jpg" crc="4288149303" ref="training">
+      <caption webpage="training" alt=""/>
+    </file>
+    <file name="diettraining.png" crc="455939618" ref="training">
+      <caption webpage="training" alt=""/>
+    </file>
+    <file name="diettraining-u11651-r-fr.png" crc="4224975069" ref="training"/>
     <file name="exprogram.png" crc="4265848555" ref="training">
       <caption webpage="training" alt=""/>
     </file>
@@ -231,32 +248,13 @@
     <file name="fatloss.png" crc="44619129" ref="training">
       <caption webpage="training" alt=""/>
     </file>
-    <file name="squats copy.png" crc="4157580264" ref="training">
-      <caption webpage="training" alt="GLUTE TRAINING"/>
-      <caption webpage="training" alt="GLUTE TRAINING"/>
+    <file name="squats copy.jpg" crc="205645626" ref="training">
       <caption webpage="training" alt="GLUTE TRAINING"/>
     </file>
-    <file name="squats copy-u16364-4-a-fr.png" crc="3868924232" ref="training"/>
+    <file name="squats copy-u16364-4-a-fr.png" crc="255404589" ref="training"/>
     <file name="glute.png" crc="3790220082" ref="training">
       <caption webpage="training" alt=""/>
     </file>
-    <file name="personal trainer.png" crc="3795543158" ref="training">
-      <caption webpage="training" alt=""/>
-    </file>
-    <file name="personal trainer-u11737-r-fr.png" crc="274474230" ref="training"/>
-    <file name="penne_with_eggplant_and_basil_in_yogurt-tomato_sauce.jpg" crc="442938321" ref="training">
-      <caption webpage="training" alt=""/>
-    </file>
-    <file name="9018429130_edcf1cb212.jpg" crc="126315757" ref="training">
-      <caption webpage="training" alt=""/>
-    </file>
-    <file name="160304-f-zp902-001.jpg" crc="4288149303" ref="training">
-      <caption webpage="training" alt=""/>
-    </file>
-    <file name="diettraining.png" crc="455939618" ref="training">
-      <caption webpage="training" alt=""/>
-    </file>
-    <file name="diettraining-u11651-r-fr.png" crc="4224975069" ref="training"/>
     <file name="about2.jpg" crc="38040115" ref="about">
       <caption webpage="about" alt=""/>
     </file>
@@ -275,36 +273,36 @@
   </folder>
   <folder name="tablet">
     <folder name="css">
-      <file name="master_a-master.css" crc="409669740" ref="tablet>my-story:tablet>index:tablet>portfolio:tablet>contact"/>
-      <file name="my-story.css" crc="124435638" ref="tablet>my-story"/>
-      <file name="index.css" crc="527167167" ref="tablet>index"/>
+      <file name="master_a-master.css" crc="409669740" ref="tablet>contact:tablet>portfolio:tablet>my-story:tablet>index"/>
+      <file name="contact.css" crc="317423948" ref="tablet>contact"/>
       <file name="portfolio.css" crc="266066119" ref="tablet>portfolio"/>
-      <file name="contact.css" crc="219661110" ref="tablet>contact"/>
+      <file name="my-story.css" crc="302468624" ref="tablet>my-story"/>
+      <file name="index.css" crc="297103798" ref="tablet>index"/>
     </folder>
-    <file name="index.html" crc="356089538" seo="true" mt="1500468325451" redirect="true"/>
-    <file name="portfolio.html" crc="239354070" seo="true" mt="1500468325451" redirect="true"/>
-    <file name="my-story.html" crc="327327901" seo="true" mt="1500468325451" redirect="true"/>
-    <file name="contact.html" crc="4028150074" seo="true" mt="1500468325451" redirect="true"/>
+    <file name="index.html" crc="348634076" seo="true" mt="1500468325451" redirect="true"/>
+    <file name="portfolio.html" crc="4265182886" seo="true" mt="1500468325451" redirect="true"/>
+    <file name="my-story.html" crc="3940642672" seo="true" mt="1500468325451" redirect="true"/>
+    <file name="contact.html" crc="34997316" seo="true" mt="1500468325451" redirect="true"/>
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="master_www_lauriediannafit_com.css" crc="4114929031" ref="phone>training:phone>index:phone>about:phone>contact"/>
+      <file name="master_www_lauriediannafit_com.css" crc="4024068443" ref="phone>training:phone>contact:phone>index:phone>about"/>
       <file name="training.css" crc="203000605" ref="phone>training"/>
-      <file name="index.css" crc="4106316880" ref="phone>index"/>
-      <file name="about.css" crc="4014324902" ref="phone>about"/>
       <file name="contact.css" crc="4014324902" ref="phone>contact"/>
+      <file name="index.css" crc="388078601" ref="phone>index"/>
+      <file name="about.css" crc="4014324902" ref="phone>about"/>
     </folder>
-    <file name="index.html" crc="3844685103" seo="true" mt="1500600807288" redirect="true"/>
-    <file name="about.html" crc="408570237" seo="true" mt="1500600807288" redirect="true"/>
-    <file name="training.html" crc="4112706920" seo="true" mt="1500600807288" redirect="true"/>
-    <file name="contact.html" crc="4146856178" seo="true" mt="1500600807288" redirect="true"/>
+    <file name="index.html" crc="3999511846" seo="true" mt="1500600807288" redirect="true"/>
+    <file name="about.html" crc="3897804939" seo="true" mt="1500600807288" redirect="true"/>
+    <file name="training.html" crc="4225090090" seo="true" mt="1500600807288" redirect="true"/>
+    <file name="contact.html" crc="524201514" seo="true" mt="1500600807288" redirect="true"/>
   </folder>
-  <file name="index.html" crc="4081188032" seo="true" mt="1500607865480" redirect="true"/>
-  <file name="training.html" crc="3844499908" seo="true" mt="1500607865480" redirect="true"/>
-  <file name="about.html" crc="4052165816" seo="true" mt="1500607934860" redirect="true"/>
-  <file name="contact.html" crc="354229675" seo="true" mt="1500608031418" redirect="true"/>
-  <file name="faith-strengthpdf.html" crc="4051329890" seo="true" mt="1500607865480" redirect="true"/>
-  <file name="fitfunglutepdf.html" crc="523707596" seo="true" mt="1500607865480" redirect="true"/>
-  <file name="summerbodwlosspdf.html" crc="3992776487" seo="true" mt="1500607865480" redirect="true"/>
-  <file name="submission-form.html" crc="4236005369" seo="true" mt="1500607865480" redirect="true"/>
+  <file name="index.html" crc="4215727600" seo="true" mt="1500614336681" redirect="true"/>
+  <file name="training.html" crc="4198953000" seo="true" mt="1500616580015" redirect="true"/>
+  <file name="about.html" crc="4222576663" seo="true" mt="1500614336681" redirect="true"/>
+  <file name="contact.html" crc="460180270" seo="true" mt="1500614336681" redirect="true"/>
+  <file name="faith-strengthpdf.html" crc="3936267091" seo="true" mt="1500614336681" redirect="true"/>
+  <file name="fitfunglutepdf.html" crc="515019243" seo="true" mt="1500614336681" redirect="true"/>
+  <file name="summerbodwlosspdf.html" crc="3890344395" seo="true" mt="1500614336681" redirect="true"/>
+  <file name="submission-form.html" crc="50087446" seo="true" mt="1500614336681" redirect="true"/>
 </manifest>

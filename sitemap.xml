@@ -14,7 +14,7 @@
     </image:image>
   </url>
   <url>
-    <loc>https://duallltest.github.io/fitfunglutepdf.html</loc>
+    <loc>https://duallltest.github.io/summerbodwlosspdf.html</loc>
     <lastmod>2017-07-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -26,7 +26,7 @@
     </image:image>
   </url>
   <url>
-    <loc>https://duallltest.github.io/summerbodwlosspdf.html</loc>
+    <loc>https://duallltest.github.io/fitfunglutepdf.html</loc>
     <lastmod>2017-07-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -76,12 +76,6 @@
     </image:image>
   </url>
   <url>
-    <loc>https://duallltest.github.io/phone/ldfit-personal-training.html</loc>
-    <lastmod>2017-07-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://duallltest.github.io/training.html</loc>
     <lastmod>2017-07-23</lastmod>
     <changefreq>weekly</changefreq>
@@ -93,6 +87,18 @@
     <image:image>
       <image:loc>https://duallltest.github.io/images/menupic-layer%200.png</image:loc>
     </image:image>
+  </url>
+  <url>
+    <loc>https://duallltest.github.io/phone/ldfit-personal-training.html</loc>
+    <lastmod>2017-07-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://duallltest.github.io/phone/ldfit-exercise-training.html</loc>
+    <lastmod>2017-07-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://duallltest.github.io/phone/ldfit-diet-programs.html</loc>
@@ -107,14 +113,8 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://duallltest.github.io/phone/ldfit-exercise-training.html</loc>
+    <loc>https://duallltest.github.io/assets/glowbot.png</loc>
     <lastmod>2017-07-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://duallltest.github.io/assets/aboutpic2.jpg</loc>
-    <lastmod>2017-07-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -125,14 +125,20 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://duallltest.github.io/assets/pop6662-copy.jpg</loc>
-    <lastmod>2017-07-23</lastmod>
+    <loc>https://duallltest.github.io/assets/ldfiticon.png</loc>
+    <lastmod>2017-07-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://duallltest.github.io/assets/12-week-fat-loss-program-1.pdf</loc>
+    <loc>https://duallltest.github.io/assets/rightarrow.png</loc>
     <lastmod>2017-07-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://duallltest.github.io/assets/aboutpic2.jpg</loc>
+    <lastmod>2017-07-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -143,7 +149,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://duallltest.github.io/assets/rightarrow.png</loc>
+    <loc>https://duallltest.github.io/assets/12-week-fat-loss-program-1.pdf</loc>
     <lastmod>2017-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -179,19 +185,19 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://duallltest.github.io/assets/ldfiticon.png</loc>
-    <lastmod>2017-07-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://duallltest.github.io/assets/pop66.jpg</loc>
     <lastmod>2017-07-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://duallltest.github.io/assets/glowbot.png</loc>
+    <loc>https://duallltest.github.io/assets/pop6662-copy.jpg</loc>
+    <lastmod>2017-07-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://duallltest.github.io/assets/blank.gif</loc>
     <lastmod>2017-07-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

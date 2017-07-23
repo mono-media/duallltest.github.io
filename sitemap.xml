@@ -7,8 +7,14 @@
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="https://duallltest.github.io/phone/index.html"/>
     <image:image>
-      <image:loc>https://duallltest.github.io/images/dddiamond.png</image:loc>
+      <image:loc>https://duallltest.github.io/images/menupic-layer%200.png</image:loc>
     </image:image>
+  </url>
+  <url>
+    <loc>https://duallltest.github.io/fitfunglutepdf.html</loc>
+    <lastmod>2017-07-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
     <image:image>
       <image:loc>https://duallltest.github.io/images/menupic-layer%200.png</image:loc>
     </image:image>
@@ -19,21 +25,6 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>https://duallltest.github.io/images/dddiamond.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://duallltest.github.io/images/menupic-layer%200.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://duallltest.github.io/fitfunglutepdf.html</loc>
-    <lastmod>2017-07-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>https://duallltest.github.io/images/dddiamond.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>https://duallltest.github.io/images/menupic-layer%200.png</image:loc>
     </image:image>
   </url>
@@ -42,9 +33,6 @@
     <lastmod>2017-07-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>https://duallltest.github.io/images/dddiamond.png</image:loc>
-    </image:image>
     <image:image>
       <image:loc>https://duallltest.github.io/images/menupic-layer%200.png</image:loc>
     </image:image>
@@ -56,9 +44,6 @@
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="https://duallltest.github.io/phone/contact.html"/>
     <image:image>
-      <image:loc>https://duallltest.github.io/images/dddiamond.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>https://duallltest.github.io/images/menupic-layer%200.png</image:loc>
     </image:image>
   </url>
@@ -69,11 +54,14 @@
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="https://duallltest.github.io/phone/about.html"/>
     <image:image>
-      <image:loc>https://duallltest.github.io/images/dddiamond.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>https://duallltest.github.io/images/menupic-layer%200.png</image:loc>
     </image:image>
+  </url>
+  <url>
+    <loc>https://duallltest.github.io/phone/ldfit-personal-training-submission-form.html</loc>
+    <lastmod>2017-07-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://duallltest.github.io/training.html</loc>
@@ -82,14 +70,23 @@
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="https://duallltest.github.io/phone/training.html"/>
     <image:image>
-      <image:loc>https://duallltest.github.io/images/dddiamond.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>https://duallltest.github.io/images/menupic-layer%200.png</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>https://duallltest.github.io/phone/ldfit-personal-training.html</loc>
+    <loc>https://duallltest.github.io/phone/ldfit-exercise-training-submission-form.html</loc>
+    <lastmod>2017-07-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://duallltest.github.io/phone/ldfit-30-day-challenge-submission-form.html</loc>
+    <lastmod>2017-07-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://duallltest.github.io/phone/ldfit-diet-training-submission-form.html</loc>
     <lastmod>2017-07-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -107,13 +104,25 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://duallltest.github.io/phone/ldfit-personal-training.html</loc>
+    <lastmod>2017-07-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://duallltest.github.io/phone/ldfit-30-day-challenge.html</loc>
     <lastmod>2017-07-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://duallltest.github.io/assets/glowbot.png</loc>
+    <loc>https://duallltest.github.io/assets/pop6662-copy.jpg</loc>
+    <lastmod>2017-07-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://duallltest.github.io/assets/blank.gif</loc>
     <lastmod>2017-07-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -125,13 +134,19 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://duallltest.github.io/assets/glowbot.png</loc>
+    <lastmod>2017-07-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://duallltest.github.io/assets/ldfiticon.png</loc>
     <lastmod>2017-07-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://duallltest.github.io/assets/rightarrow.png</loc>
+    <loc>https://duallltest.github.io/assets/12-week-fat-loss-program-1.pdf</loc>
     <lastmod>2017-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -145,12 +160,6 @@
   <url>
     <loc>https://duallltest.github.io/assets/aboutpic1.jpg</loc>
     <lastmod>2017-07-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://duallltest.github.io/assets/12-week-fat-loss-program-1.pdf</loc>
-    <lastmod>2017-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -185,20 +194,20 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://duallltest.github.io/assets/rightarrow.png</loc>
+    <lastmod>2017-07-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://duallltest.github.io/assets/pop66.jpg</loc>
     <lastmod>2017-07-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://duallltest.github.io/assets/pop6662-copy.jpg</loc>
-    <lastmod>2017-07-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://duallltest.github.io/assets/blank.gif</loc>
-    <lastmod>2017-07-23</lastmod>
+    <loc>https://duallltest.github.io/assets/dddiamond.png</loc>
+    <lastmod>2017-07-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

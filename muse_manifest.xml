@@ -1,273 +1,282 @@
-<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://duallltest.github.io" resolutions="1x" timestamp="1500838127120">
+<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="lauriediannafitness.com" resolutions="1x" timestamp="1501533664776">
   <folder name="css">
-    <file name="site_global.css" crc="391209970"/>
-    <file name="master_www_lauriediannafit_com.css" crc="4009469594" ref="contact:training:faith-strengthpdf:summerbodwlosspdf:index:about:fitfunglutepdf"/>
-    <file name="contact.css" crc="4051049647" ref="contact"/>
-    <file name="training.css" crc="26271661" ref="training"/>
-    <file name="faith-strengthpdf.css" crc="3971530918" ref="faith-strengthpdf"/>
-    <file name="summerbodwlosspdf.css" crc="82737477" ref="summerbodwlosspdf"/>
-    <file name="index.css" crc="532355805" ref="index"/>
-    <file name="about.css" crc="3858290275" ref="about"/>
-    <file name="fitfunglutepdf.css" crc="454210720" ref="fitfunglutepdf"/>
+    <file name="site_global.css" crc="518921891"/>
+    <file name="master_ldfit-training-programs.css" crc="385344754" ref="ldfit-exercise-training:ldfit-personal-training:ldfit-30-day-challenge:ldfit-diet-training"/>
+    <file name="master_www_lauriediannafit_com.css" crc="4080068965" ref="faith-strengthpdf:about:fitfunglutepdf:contact:index:summerbodwlosspdf:training"/>
+    <file name="faith-strengthpdf.css" crc="3928623883" ref="faith-strengthpdf"/>
+    <file name="about.css" crc="4177436332" ref="about"/>
+    <file name="fitfunglutepdf.css" crc="146022441" ref="fitfunglutepdf"/>
+    <file name="contact.css" crc="4292912639" ref="contact"/>
+    <file name="ldfit-exercise-training.css" crc="3973056581" ref="ldfit-exercise-training"/>
+    <file name="ldfit-personal-training.css" crc="4099467546" ref="ldfit-personal-training"/>
+    <file name="ldfit-30-day-challenge.css" crc="4087169216" ref="ldfit-30-day-challenge"/>
+    <file name="index.css" crc="12465915" ref="index"/>
+    <file name="summerbodwlosspdf.css" crc="236131825" ref="summerbodwlosspdf"/>
+    <file name="training.css" crc="3914293726" ref="training"/>
+    <file name="ldfit-diet-training.css" crc="3827788871" ref="ldfit-diet-training"/>
+    <file name="iefonts_ldfit-diet-training.css" crc="118627790" ref="ldfit-diet-training"/>
   </folder>
   <folder name="assets">
-    <file name="pop66.jpg" crc="372874040" seo="true" mt="1499819779000"/>
-    <file name="pop2666.jpg" crc="4165165109" seo="true" mt="1499819961000"/>
-    <file name="pop6662.jpg" crc="284314126" seo="true" mt="1499819871000"/>
     <file name="ldlogowhite.png" crc="4078512312" seo="true" mt="1499839144000"/>
     <file name="12-week-strength-training-program-(first-one).pdf" crc="4085843451" seo="true" mt="1500444276000"/>
     <file name="12-week-glute-program-1.pdf" crc="176640780" seo="true" mt="1500444274000"/>
     <file name="12-week-fat-loss-program-1.pdf" crc="427428960" seo="true" mt="1500444278000"/>
+    <file name="paypal.png" crc="242600370" seo="true" mt="1501008796000"/>
+    <file name="pop6662-copy-copy.jpg" crc="3934201581" seo="true" mt="1501262041000"/>
+    <file name="p.jpg" crc="4084413121" seo="true" mt="1501313132000"/>
+    <file name="pop66.jpg" crc="4129514193" seo="true" mt="1501262193000"/>
     <file name="aboutpic1.jpg" crc="50957738" seo="true" mt="1499979137000"/>
     <file name="aboutpic2.jpg" crc="4283330057" seo="true" mt="1499979123000"/>
-    <file name="headeer.jpg" crc="95073180" seo="true" mt="1500660485000"/>
-    <file name="ldfiticon.png" crc="131931398" seo="true" mt="1500103745000"/>
-    <file name="glowbot.png" crc="277190837" seo="true" mt="1500802221000"/>
-    <file name="pop6662-copy.jpg" crc="4199537094" seo="true" mt="1500802197000"/>
-    <file name="blank.gif" crc="4208392903" seo="true" mt="1500802909000"/>
-    <file name="rightarrow.png" crc="446445673" seo="true" mt="1500499461000"/>
-    <file name="dddiamond.png" crc="97662196" seo="true" mt="1500011577000"/>
+    <file name="atabarrow.png" crc="3813467655" seo="true" mt="1501372567000"/>
+    <file name="menupic.psd" crc="3965123653" seo="true" mt="1501529005000"/>
+    <file name="ddcircle.png" crc="510132244" seo="true" mt="1501496654000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>about:phone>training:phone>ldfit-30-day-challenge:phone>ldfit-diet-training:phone>ldfit-exercise-training:phone>contact:phone>ldfit-personal-training:phone>ldfit-30-day-challenge-submission-form:phone>ldfit-exercise-training-submission-form:phone>ldfit-diet-training-submission-form:phone>ldfit-personal-training-submission-form:index:training:about:contact:faith-strengthpdf:fitfunglutepdf:summerbodwlosspdf"/>
-    <file name="museutils.js" crc="4216313831" ref="phone>index:phone>about:phone>training:phone>ldfit-30-day-challenge:phone>ldfit-diet-training:phone>ldfit-exercise-training:phone>contact:phone>ldfit-personal-training:phone>ldfit-30-day-challenge-submission-form:phone>ldfit-exercise-training-submission-form:phone>ldfit-diet-training-submission-form:phone>ldfit-personal-training-submission-form:index:training:about:contact:faith-strengthpdf:fitfunglutepdf:summerbodwlosspdf"/>
-    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>about:phone>training:phone>ldfit-30-day-challenge:phone>ldfit-diet-training:phone>ldfit-exercise-training:phone>contact:phone>ldfit-personal-training:phone>ldfit-30-day-challenge-submission-form:phone>ldfit-exercise-training-submission-form:phone>ldfit-diet-training-submission-form:phone>ldfit-personal-training-submission-form:index:training:about:contact:faith-strengthpdf:fitfunglutepdf:summerbodwlosspdf"/>
-    <file name="museconfig.js" crc="474374037" ref="phone>index:phone>about:phone>training:phone>ldfit-30-day-challenge:phone>ldfit-diet-training:phone>ldfit-exercise-training:phone>contact:phone>ldfit-personal-training:phone>ldfit-30-day-challenge-submission-form:phone>ldfit-exercise-training-submission-form:phone>ldfit-diet-training-submission-form:phone>ldfit-personal-training-submission-form:index:training:about:contact:faith-strengthpdf:fitfunglutepdf:summerbodwlosspdf"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4110862005" ref="phone>index:phone>about:phone>ldfit-30-day-challenge:phone>ldfit-diet-training:phone>ldfit-exercise-training:phone>contact:phone>ldfit-personal-training:index:training:about:contact"/>
-    <file name="webpro.js" crc="4143865194" ref="phone>index:phone>about:phone>training:phone>ldfit-30-day-challenge:phone>ldfit-diet-training:phone>ldfit-exercise-training:phone>contact:phone>ldfit-personal-training:phone>ldfit-30-day-challenge-submission-form:phone>ldfit-exercise-training-submission-form:phone>ldfit-diet-training-submission-form:phone>ldfit-personal-training-submission-form:index:training:contact"/>
-    <file name="musewpslideshow.js" crc="3781122836" ref="phone>index:phone>about:phone>training:phone>ldfit-30-day-challenge:phone>ldfit-diet-training:phone>ldfit-exercise-training:phone>contact:phone>ldfit-personal-training:phone>ldfit-30-day-challenge-submission-form:phone>ldfit-exercise-training-submission-form:phone>ldfit-diet-training-submission-form:phone>ldfit-personal-training-submission-form:index:training"/>
-    <file name="jquery.museoverlay.js" crc="4030747646" ref="phone>index:phone>about:phone>training:phone>ldfit-30-day-challenge:phone>ldfit-diet-training:phone>ldfit-exercise-training:phone>contact:phone>ldfit-personal-training:phone>ldfit-30-day-challenge-submission-form:phone>ldfit-exercise-training-submission-form:phone>ldfit-diet-training-submission-form:phone>ldfit-personal-training-submission-form:index:training"/>
-    <file name="touchswipe.js" crc="4200445185" ref="phone>index:phone>about:phone>training:phone>ldfit-30-day-challenge:phone>ldfit-diet-training:phone>ldfit-exercise-training:phone>contact:phone>ldfit-personal-training:phone>ldfit-30-day-challenge-submission-form:phone>ldfit-exercise-training-submission-form:phone>ldfit-diet-training-submission-form:phone>ldfit-personal-training-submission-form:index:training"/>
-    <file name="jquery.watch.js" crc="460461809" ref="phone>index:phone>about:phone>training:phone>ldfit-30-day-challenge:phone>ldfit-diet-training:phone>ldfit-exercise-training:phone>contact:phone>ldfit-personal-training:phone>ldfit-30-day-challenge-submission-form:phone>ldfit-exercise-training-submission-form:phone>ldfit-diet-training-submission-form:phone>ldfit-personal-training-submission-form:index:training:about:contact:faith-strengthpdf:fitfunglutepdf:summerbodwlosspdf"/>
-    <file name="require.js" crc="3951022091" ref="phone>index:phone>about:phone>training:phone>ldfit-30-day-challenge:phone>ldfit-diet-training:phone>ldfit-exercise-training:phone>contact:phone>ldfit-personal-training:phone>ldfit-30-day-challenge-submission-form:phone>ldfit-exercise-training-submission-form:phone>ldfit-diet-training-submission-form:phone>ldfit-personal-training-submission-form:index:training:about:contact:faith-strengthpdf:fitfunglutepdf:summerbodwlosspdf"/>
-    <file name="musewpdisclosure.js" crc="4050941203" ref="phone>ldfit-diet-training:phone>ldfit-exercise-training:training"/>
-    <file name="form_check.php" crc="154010282" ref="phone>contact"/>
-    <file name="form_throttle.php" crc="266437015" ref="phone>contact"/>
-    <file name="form_process.php" crc="512629711" ref="phone>contact"/>
-    <file name="form-u31324.php" crc="365923274" ref="phone>contact"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:training:about:contact:faith-strengthpdf:fitfunglutepdf:summerbodwlosspdf:ldfit-personal-training:ldfit-exercise-training:ldfit-diet-training:ldfit-30-day-challenge"/>
+    <file name="museutils.js" crc="4216313831" ref="index:training:about:contact:faith-strengthpdf:fitfunglutepdf:summerbodwlosspdf:ldfit-personal-training:ldfit-exercise-training:ldfit-diet-training:ldfit-30-day-challenge"/>
+    <file name="whatinput.js" crc="86476730" ref="index:training:about:contact:faith-strengthpdf:fitfunglutepdf:summerbodwlosspdf:ldfit-personal-training:ldfit-exercise-training:ldfit-diet-training:ldfit-30-day-challenge"/>
+    <file name="museconfig.js" crc="4177022356" ref="index:training:about:contact:faith-strengthpdf:fitfunglutepdf:summerbodwlosspdf:ldfit-personal-training:ldfit-exercise-training:ldfit-diet-training:ldfit-30-day-challenge"/>
+    <file name="webpro.js" crc="4143865194" ref="index:contact:ldfit-personal-training:ldfit-exercise-training:ldfit-diet-training:ldfit-30-day-challenge"/>
+    <file name="musewpslideshow.js" crc="3781122836" ref="index:ldfit-personal-training:ldfit-exercise-training:ldfit-diet-training:ldfit-30-day-challenge"/>
+    <file name="jquery.museoverlay.js" crc="4030747646" ref="index:ldfit-personal-training:ldfit-exercise-training:ldfit-diet-training:ldfit-30-day-challenge"/>
+    <file name="touchswipe.js" crc="4200445185" ref="index:ldfit-personal-training:ldfit-exercise-training:ldfit-diet-training:ldfit-30-day-challenge"/>
+    <file name="jquery.watch.js" crc="460461809" ref="index:training:about:contact:faith-strengthpdf:fitfunglutepdf:summerbodwlosspdf:ldfit-personal-training:ldfit-exercise-training:ldfit-diet-training:ldfit-30-day-challenge"/>
+    <file name="jquery.scrolleffects.js" crc="128250821" ref="index"/>
+    <file name="require.js" crc="3951022091" ref="index:training:about:contact:faith-strengthpdf:fitfunglutepdf:summerbodwlosspdf:ldfit-personal-training:ldfit-exercise-training:ldfit-diet-training:ldfit-30-day-challenge"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4110862005" ref="training:about:contact:ldfit-personal-training:ldfit-exercise-training:ldfit-diet-training:ldfit-30-day-challenge"/>
+    <file name="form_check.php" crc="154010282" ref="contact"/>
+    <file name="form_throttle.php" crc="266437015" ref="contact"/>
+    <file name="form_process.php" crc="512629711" ref="contact"/>
     <file name="form-u1114.php" crc="4181232746" ref="contact"/>
+    <file name="jquery.musemenu.js" crc="493622299" ref="ldfit-personal-training:ldfit-exercise-training:ldfit-diet-training:ldfit-30-day-challenge"/>
+    <file name="form-u49902.php" crc="314677192" ref="ldfit-personal-training"/>
+    <file name="html5shiv.js" crc="4241844378" ref="ldfit-personal-training:ldfit-exercise-training:ldfit-diet-training:ldfit-30-day-challenge"/>
+    <file name="musewpdisclosure.js" crc="4050941203" ref="ldfit-exercise-training:ldfit-diet-training"/>
+    <file name="form-u52385.php" crc="3935436637" ref="ldfit-diet-training"/>
+    <file name="form-u49017.php" crc="303435071" ref="ldfit-diet-training"/>
+    <file name="form-u46786.php" crc="4166418499" ref="ldfit-30-day-challenge"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="428028341" ref="phone>index"/>
-    <file name="ldlogowhite.png" crc="3917348601" ref="phone>index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="headeer.jpg" crc="3790921874" ref="phone>index">
+    <file name="favicon.ico" crc="435170239" ref="index"/>
+    <file name="photo-jul-20-7-01-34-pm.jpg" crc="49767034" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="2017-06-03-u28069-4-fr.png" crc="501174229" ref="phone>index:index"/>
-    <file name="dot hatch fine.png" crc="3911273588" ref="phone>index:contact">
-      <caption webpage="index" alt=""/>
-      <caption webpage="contact" alt=""/>
-    </file>
-    <file name="2017-06-03-u32007-fr.png" crc="306096478" ref="phone>index"/>
-    <file name="2017-06-03-u32007-r-fr.png" crc="3819791100" ref="phone>index"/>
-    <file name="save-u33585.png" crc="3758216949" ref="phone>index"/>
-    <file name="ldfiticon.png" crc="3808957613" ref="phone>index">
+    <file name="dot hatch.png" crc="224740808" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u34343.png" crc="521685302" ref="phone>index:phone>about:phone>training:phone>ldfit-30-day-challenge:phone>ldfit-diet-training:phone>ldfit-exercise-training:phone>contact:phone>ldfit-personal-training:phone>ldfit-30-day-challenge-submission-form:phone>ldfit-exercise-training-submission-form:phone>ldfit-diet-training-submission-form:phone>ldfit-personal-training-submission-form"/>
-    <file name="u34343-r.png" crc="3898221345" ref="phone>index:phone>about:phone>training:phone>ldfit-30-day-challenge:phone>ldfit-diet-training:phone>ldfit-exercise-training:phone>contact:phone>ldfit-personal-training:phone>ldfit-30-day-challenge-submission-form:phone>ldfit-exercise-training-submission-form:phone>ldfit-diet-training-submission-form:phone>ldfit-personal-training-submission-form"/>
-    <file name="u34345.png" crc="3799009299" ref="phone>index:phone>about:phone>training:phone>ldfit-30-day-challenge:phone>ldfit-diet-training:phone>ldfit-exercise-training:phone>contact:phone>ldfit-personal-training:phone>ldfit-30-day-challenge-submission-form:phone>ldfit-exercise-training-submission-form:phone>ldfit-diet-training-submission-form:phone>ldfit-personal-training-submission-form"/>
-    <file name="u34345-r.png" crc="329176212" ref="phone>index:phone>about:phone>training:phone>ldfit-30-day-challenge:phone>ldfit-diet-training:phone>ldfit-exercise-training:phone>contact:phone>ldfit-personal-training:phone>ldfit-30-day-challenge-submission-form:phone>ldfit-exercise-training-submission-form:phone>ldfit-diet-training-submission-form:phone>ldfit-personal-training-submission-form"/>
-    <file name="u34341.png" crc="3963840781" ref="phone>index:phone>about:phone>training:phone>ldfit-30-day-challenge:phone>ldfit-diet-training:phone>ldfit-exercise-training:phone>contact:phone>ldfit-personal-training:phone>ldfit-30-day-challenge-submission-form:phone>ldfit-exercise-training-submission-form:phone>ldfit-diet-training-submission-form:phone>ldfit-personal-training-submission-form"/>
-    <file name="u34341-r.png" crc="4253513212" ref="phone>index:phone>about:phone>training:phone>ldfit-30-day-challenge:phone>ldfit-diet-training:phone>ldfit-exercise-training:phone>contact:phone>ldfit-personal-training:phone>ldfit-30-day-challenge-submission-form:phone>ldfit-exercise-training-submission-form:phone>ldfit-diet-training-submission-form:phone>ldfit-personal-training-submission-form"/>
-    <file name="dddiamond.png" crc="4041510897" seo="true" ref="phone>index:phone>about:phone>training:phone>ldfit-30-day-challenge:phone>ldfit-diet-training:phone>ldfit-exercise-training:phone>contact:phone>ldfit-personal-training:phone>ldfit-30-day-challenge-submission-form:phone>ldfit-exercise-training-submission-form:phone>ldfit-diet-training-submission-form:phone>ldfit-personal-training-submission-form">
-      <caption webpage="contact" alt=""/>
-      <caption webpage="ldfit-exercise-training-submission-form" alt=""/>
-      <caption webpage="ldfit-30-day-challenge-submission-form" alt=""/>
-      <caption webpage="ldfit-exercise-training" alt=""/>
-      <caption webpage="ldfit-30-day-challenge" alt=""/>
+    <file name="2017-06-03.png" crc="3814760212" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="ldfit-personal-training-submission-form" alt=""/>
-      <caption webpage="ldfit-diet-training-submission-form" alt=""/>
-      <caption webpage="ldfit-diet-training" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="training" alt=""/>
-      <caption webpage="ldfit-personal-training" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="phone>about:phone>training:phone>ldfit-exercise-training:phone>contact:training:about"/>
-    <file name="ldlogowhite-u30480-fr.png" crc="3781874102" ref="phone>about:phone>ldfit-30-day-challenge:phone>ldfit-exercise-training:phone>ldfit-personal-training:training:about"/>
-    <file name="img_0827 copy-u30489-fr.jpg" crc="3980180223" ref="phone>about"/>
-    <file name="about2-u30490-fr.jpg" crc="404796316" ref="phone>about"/>
-    <file name="img_0782 copy-u30491-fr.jpg" crc="95551440" ref="phone>about"/>
-    <file name="aboutpic2.jpg" crc="230288200" ref="phone>about">
-      <caption webpage="about" alt=""/>
-    </file>
-    <file name="19933174_1113634285404459_2043593165113393152_n.jpg" crc="130026761" ref="phone>about">
-      <caption webpage="about" alt=""/>
-    </file>
-    <file name="photo sep 25, 7 37 11 pm-u30492-fr.jpg" crc="349915198" ref="phone>about"/>
-    <file name="u32855.png" crc="490747511" ref="phone>training"/>
-    <file name="u32855-r.png" crc="146916348" ref="phone>training"/>
-    <file name="u33336.png" crc="3948891855" ref="phone>training"/>
-    <file name="u33336-r.png" crc="160103883" ref="phone>training"/>
-    <file name="u33072.png" crc="216117542" ref="phone>training"/>
-    <file name="u33072-r.png" crc="58867655" ref="phone>training"/>
-    <file name="u33495.png" crc="219889560" ref="phone>training"/>
-    <file name="u33495-r.png" crc="99612779" ref="phone>training"/>
-    <file name="pexels-photo-196640-u32056-fr.jpg" crc="3848195051" ref="phone>ldfit-30-day-challenge"/>
-    <file name="model-with-kettlebell-sexist-stock-u32065-fr.jpg" crc="4058991160" ref="phone>ldfit-30-day-challenge"/>
-    <file name="32932079915_68398e3692_b-u32052-fr.jpg" crc="287914571" ref="phone>ldfit-30-day-challenge"/>
-    <file name="photo jul 20, 7 01 38 pm-u32063-fr.jpg" crc="366977992" ref="phone>ldfit-30-day-challenge"/>
-    <file name="ldlogowhite-u32878-fr.png" crc="4097221705" ref="phone>ldfit-diet-training"/>
-    <file name="greek-chicken-meal-prep-1.jpg" crc="4102859821" ref="phone>ldfit-diet-training">
-      <caption webpage="ldfit-diet-training" alt=""/>
-    </file>
-    <file name="chicken-meal-prep-five-ways-4.jpg" crc="205359671" ref="phone>ldfit-diet-training">
-      <caption webpage="ldfit-diet-training" alt=""/>
-      <caption webpage="ldfit-diet-training" alt=""/>
-    </file>
-    <file name="9018429130_edcf1cb212.jpg" crc="126315757" ref="phone>ldfit-diet-training:training">
-      <caption webpage="ldfit-diet-training" alt=""/>
-    </file>
-    <file name="que_es_resiliencia-u34173-fr.jpg" crc="492610131" ref="phone>ldfit-exercise-training"/>
-    <file name="60s-u33137-fr.png" crc="102803811" ref="phone>ldfit-exercise-training"/>
-    <file name="belly-2354_960_720-u34048-fr.jpg" crc="257823274" ref="phone>ldfit-exercise-training"/>
-    <file name="fatloss-u33145-fr.png" crc="4060744724" ref="phone>ldfit-exercise-training"/>
-    <file name="sqa-u34182-fr.png" crc="4054522452" ref="phone>ldfit-exercise-training"/>
-    <file name="glute-u33132-fr.png" crc="4252230635" ref="phone>ldfit-exercise-training"/>
-    <file name="u33815.png" crc="494309294" ref="phone>contact"/>
-    <file name="u33815-r.png" crc="4198141624" ref="phone>contact"/>
-    <file name="contactpic.jpg" crc="513075990" ref="phone>contact">
-      <caption webpage="contact" alt=""/>
-    </file>
-    <file name="u33824.png" crc="177432267" ref="phone>contact"/>
-    <file name="u33824-r.png" crc="183024948" ref="phone>contact"/>
-    <file name="u33818.png" crc="524252382" ref="phone>contact"/>
-    <file name="u33818-r.png" crc="4167305407" ref="phone>contact"/>
-    <file name="u33822.png" crc="4060574773" ref="phone>contact"/>
-    <file name="u33822-r.png" crc="333285270" ref="phone>contact"/>
-    <file name="toning-your-bum-how-to-firm-up-that-butt-737404_w767h767c1cx511cy226.jpg" crc="3848085107" ref="phone>ldfit-personal-training">
-      <caption webpage="ldfit-personal-training" alt=""/>
-    </file>
-    <file name="menupic-layer 0.png" crc="3925422362" seo="true" ref="index:training:about:contact:faith-strengthpdf:fitfunglutepdf:summerbodwlosspdf">
-      <caption webpage="contact" alt=""/>
-      <caption webpage="summerbodwlosspdf" alt=""/>
-      <caption webpage="fitfunglutepdf" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="faith-strengthpdf" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="training" alt=""/>
-    </file>
-    <file name="subtle_carbon-u6903-fr.png" crc="4169848062" ref="index"/>
-    <file name="u9734.png" crc="4213201780" ref="index:training:about:contact:faith-strengthpdf:fitfunglutepdf:summerbodwlosspdf"/>
-    <file name="dot-u25305-fr.png" crc="326777302" ref="index"/>
-    <file name="2017-06-03-u25307-fr.png" crc="4082074901" ref="index"/>
-    <file name="u24803.png" crc="3787949487" ref="index"/>
-    <file name="u24803-r.png" crc="3787949487" ref="index"/>
-    <file name="u24803-m.png" crc="253456642" ref="index"/>
-    <file name="u24938.png" crc="3952037109" ref="index"/>
-    <file name="u24938-r.png" crc="3865184813" ref="index"/>
-    <file name="u24938-m.png" crc="3865184813" ref="index"/>
-    <file name="u24938-a.png" crc="327733464" ref="index"/>
-    <file name="u34410.png" crc="522451894" ref="index:training:about:contact:faith-strengthpdf:fitfunglutepdf:summerbodwlosspdf"/>
-    <file name="u34410-r.png" crc="238754757" ref="index:training:about:contact:faith-strengthpdf:fitfunglutepdf:summerbodwlosspdf"/>
+    <file name="u63231.png" crc="4203465081" ref="index"/>
+    <file name="u63231-r.png" crc="240790194" ref="index"/>
+    <file name="u63231-m.png" crc="240790194" ref="index"/>
+    <file name="u63239.png" crc="3846230026" ref="index"/>
+    <file name="u63239-r.png" crc="4238261188" ref="index"/>
+    <file name="u63239-m.png" crc="4238261188" ref="index"/>
+    <file name="u63239-a.png" crc="347746930" ref="index"/>
     <file name="u34387.png" crc="43788057" ref="index:training:about:contact:faith-strengthpdf:fitfunglutepdf:summerbodwlosspdf"/>
     <file name="u34387-r.png" crc="3909948836" ref="index:training:about:contact:faith-strengthpdf:fitfunglutepdf:summerbodwlosspdf"/>
     <file name="u34385.png" crc="72304701" ref="index:training:about:contact:faith-strengthpdf:fitfunglutepdf:summerbodwlosspdf"/>
     <file name="u34385-r.png" crc="4241259731" ref="index:training:about:contact:faith-strengthpdf:fitfunglutepdf:summerbodwlosspdf"/>
-    <file name="30day-u11500-fr.png" crc="106779327" ref="training"/>
-    <file name="30day-u11500-r-fr.png" crc="198684844" ref="training"/>
-    <file name="pexels-photo-196640.jpg" crc="93533724" ref="training">
-      <caption webpage="training" alt=""/>
-    </file>
-    <file name="model-with-kettlebell-sexist-stock.jpg" crc="4076675825" ref="training">
-      <caption webpage="training" alt=""/>
-    </file>
-    <file name="32932079915_68398e3692_b.jpg" crc="3897075276" ref="training">
-      <caption webpage="training" alt=""/>
-    </file>
-    <file name="photo jul 20, 7 01 38 pm.jpg" crc="421633124" ref="training">
-      <caption webpage="training" alt=""/>
-    </file>
-    <file name="exprogram-u11694-fr.png" crc="4187503482" ref="training"/>
-    <file name="exprogram-u11694-r-fr.png" crc="3808221730" ref="training"/>
-    <file name="que_es_resiliencia.jpg" crc="3883416594" ref="training">
-      <caption webpage="training" alt="STRENGTH TRAINING"/>
-    </file>
-    <file name="60s.png" crc="4281690709" ref="training">
-      <caption webpage="training" alt=""/>
-    </file>
-    <file name="belly-2354_960_720.jpg" crc="326880165" ref="training">
-      <caption webpage="training" alt="WEIGHT LOSS"/>
-    </file>
-    <file name="fatloss.png" crc="223780799" ref="training">
-      <caption webpage="training" alt=""/>
-    </file>
-    <file name="sqa-background copy.png" crc="4002474269" ref="training">
-      <caption webpage="training" alt="GLUTE TRAINING"/>
-    </file>
-    <file name="glute.png" crc="3831608731" ref="training">
-      <caption webpage="training" alt=""/>
-    </file>
-    <file name="personal trainer-u11737-fr.png" crc="447763382" ref="training"/>
-    <file name="personal trainer-u11737-r-fr.png" crc="52369177" ref="training"/>
-    <file name="penne_with_eggplant_and_basil_in_yogurt-tomato_sauce.jpg" crc="4036771199" ref="training">
-      <caption webpage="training" alt=""/>
-    </file>
-    <file name="160304-f-zp902-001.jpg" crc="4288149303" ref="training">
-      <caption webpage="training" alt=""/>
-    </file>
-    <file name="diettraining-u11651-fr.png" crc="99497302" ref="training"/>
-    <file name="diettraining-u11651-r-fr.png" crc="4138936055" ref="training"/>
-    <file name="about2.jpg" crc="38040115" ref="about">
+    <file name="blank.gif" crc="4208392903" ref="training:about:ldfit-personal-training:ldfit-exercise-training:ldfit-diet-training:ldfit-30-day-challenge"/>
+    <file name="personaldia-buttonu51480-fr.png" crc="412244435" ref="training"/>
+    <file name="personaldia-buttonu51480-r-fr.png" crc="4193527165" ref="training"/>
+    <file name="personaldia-buttonu51480-m-fr.png" crc="220180731" ref="training"/>
+    <file name="exediam-buttonu51499-fr.png" crc="464508591" ref="training"/>
+    <file name="exediam-buttonu51499-r-fr.png" crc="3981886916" ref="training"/>
+    <file name="exediam-buttonu51499-m-fr.png" crc="3854633732" ref="training"/>
+    <file name="diettraining-buttonu51517-fr.png" crc="4190172161" ref="training"/>
+    <file name="diettraining-buttonu51517-r-fr.png" crc="161848437" ref="training"/>
+    <file name="diettraining-buttonu51517-m-fr.png" crc="489704393" ref="training"/>
+    <file name="30daychallenge-buttonu51535-fr.png" crc="342179662" ref="training"/>
+    <file name="30daychallenge-buttonu51535-r-fr.png" crc="4028311629" ref="training"/>
+    <file name="30daychallenge-buttonu51535-m-fr.png" crc="4235805467" ref="training"/>
+    <file name="img_0854 copy-crop-u57652.png" crc="4281272085" seo="true" ref="about">
       <caption webpage="about" alt=""/>
     </file>
-    <file name="img_0827 copy.jpg" crc="171327675" ref="about">
+    <file name="about2-crop-u57631.png" crc="316553157" seo="true" ref="about">
       <caption webpage="about" alt=""/>
     </file>
-    <file name="photo sep 25, 7 37 11 pm.jpg" crc="4213735511" ref="about">
+    <file name="img_0467.jpg" crc="392694625" ref="about">
       <caption webpage="about" alt=""/>
     </file>
-    <file name="img_0782 copy.jpg" crc="282607183" ref="about">
-      <caption webpage="about" alt=""/>
+    <file name="dot hatch fine.png" crc="3911273588" ref="contact:ldfit-30-day-challenge">
+      <caption webpage="contact" alt=""/>
+      <caption webpage="ldfit-30-day-challenge" alt=""/>
+      <caption webpage="ldfit-30-day-challenge" alt=""/>
+      <caption webpage="ldfit-30-day-challenge" alt=""/>
     </file>
     <file name="u33896.png" crc="494309294" ref="contact"/>
     <file name="u33896-r.png" crc="4198141624" ref="contact"/>
-    <file name="contactpic-u33889-fr.jpg" crc="338122063" ref="contact"/>
+    <file name="contactpic.jpg" crc="120909962" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
     <file name="u33892.png" crc="4262832440" ref="contact"/>
     <file name="u33892-r.png" crc="510386046" ref="contact"/>
-    <file name="u33894.png" crc="524252382" ref="contact"/>
-    <file name="u33894-r.png" crc="4167305407" ref="contact"/>
     <file name="u33890.png" crc="4060574773" ref="contact"/>
     <file name="u33890-r.png" crc="333285270" ref="contact"/>
+    <file name="ldlogowhite-u49900-fr.png" crc="3781874102" ref="ldfit-personal-training:ldfit-diet-training:ldfit-30-day-challenge"/>
+    <file name="u49936.png" crc="356866522" ref="ldfit-personal-training"/>
+    <file name="radiobuttonunchecked-u49936-ru.png" crc="143295266" ref="ldfit-personal-training"/>
+    <file name="radiobuttonuncheckedrollover-u49936-ru-r.png" crc="383728247" ref="ldfit-personal-training"/>
+    <file name="radiobuttonuncheckedmousedown-u49936-ru-m.png" crc="111434192" ref="ldfit-personal-training"/>
+    <file name="radiobuttonchecked-u49936-rc.png" crc="246566118" ref="ldfit-personal-training"/>
+    <file name="radiobuttoncheckedrollover-u49936-rc-r.png" crc="246566118" ref="ldfit-personal-training"/>
+    <file name="radiobuttoncheckedmousedown-u49936-rc-m.png" crc="246566118" ref="ldfit-personal-training"/>
+    <file name="u49941.png" crc="356866522" ref="ldfit-personal-training"/>
+    <file name="radiobuttonunchecked-u49941-ru.png" crc="143295266" ref="ldfit-personal-training"/>
+    <file name="radiobuttonuncheckedrollover-u49941-ru-r.png" crc="383728247" ref="ldfit-personal-training"/>
+    <file name="radiobuttonuncheckedmousedown-u49941-ru-m.png" crc="111434192" ref="ldfit-personal-training"/>
+    <file name="radiobuttonchecked-u49941-rc.png" crc="246566118" ref="ldfit-personal-training"/>
+    <file name="radiobuttoncheckedrollover-u49941-rc-r.png" crc="246566118" ref="ldfit-personal-training"/>
+    <file name="radiobuttoncheckedmousedown-u49941-rc-m.png" crc="246566118" ref="ldfit-personal-training"/>
+    <file name="u49926.png" crc="356866522" ref="ldfit-personal-training"/>
+    <file name="radiobuttonunchecked-u49926-ru.png" crc="143295266" ref="ldfit-personal-training"/>
+    <file name="radiobuttonuncheckedrollover-u49926-ru-r.png" crc="383728247" ref="ldfit-personal-training"/>
+    <file name="radiobuttonuncheckedmousedown-u49926-ru-m.png" crc="111434192" ref="ldfit-personal-training"/>
+    <file name="radiobuttonchecked-u49926-rc.png" crc="246566118" ref="ldfit-personal-training"/>
+    <file name="radiobuttoncheckedrollover-u49926-rc-r.png" crc="246566118" ref="ldfit-personal-training"/>
+    <file name="radiobuttoncheckedmousedown-u49926-rc-m.png" crc="246566118" ref="ldfit-personal-training"/>
+    <file name="u49929.png" crc="356866522" ref="ldfit-personal-training"/>
+    <file name="radiobuttonunchecked-u49929-ru.png" crc="143295266" ref="ldfit-personal-training"/>
+    <file name="radiobuttonuncheckedrollover-u49929-ru-r.png" crc="383728247" ref="ldfit-personal-training"/>
+    <file name="radiobuttonuncheckedmousedown-u49929-ru-m.png" crc="111434192" ref="ldfit-personal-training"/>
+    <file name="radiobuttonchecked-u49929-rc.png" crc="246566118" ref="ldfit-personal-training"/>
+    <file name="radiobuttoncheckedrollover-u49929-rc-r.png" crc="246566118" ref="ldfit-personal-training"/>
+    <file name="radiobuttoncheckedmousedown-u49929-rc-m.png" crc="246566118" ref="ldfit-personal-training"/>
+    <file name="que_es_resiliencia.jpg" crc="3883416594" ref="ldfit-exercise-training">
+      <caption webpage="ldfit-exercise-training" alt="STRENGTH TRAINING"/>
+    </file>
+    <file name="60s.png" crc="166323023" ref="ldfit-exercise-training">
+      <caption webpage="ldfit-exercise-training" alt=""/>
+    </file>
+    <file name="belly-2354_960_720.jpg" crc="326880165" ref="ldfit-exercise-training">
+      <caption webpage="ldfit-exercise-training" alt="WEIGHT LOSS"/>
+    </file>
+    <file name="fatloss.png" crc="223780799" ref="ldfit-exercise-training">
+      <caption webpage="ldfit-exercise-training" alt=""/>
+    </file>
+    <file name="sqa-background copy.png" crc="4002474269" ref="ldfit-exercise-training">
+      <caption webpage="ldfit-exercise-training" alt="GLUTE TRAINING"/>
+    </file>
+    <file name="glute.png" crc="3831608731" ref="ldfit-exercise-training">
+      <caption webpage="ldfit-exercise-training" alt=""/>
+    </file>
+    <file name="160304-f-zp902-001.jpg" crc="4288149303" ref="ldfit-diet-training">
+      <caption webpage="ldfit-diet-training" alt=""/>
+    </file>
+    <file name="penne_with_eggplant_and_basil_in_yogurt-tomato_sauce.jpg" crc="4036771199" ref="ldfit-diet-training">
+      <caption webpage="ldfit-diet-training" alt=""/>
+    </file>
+    <file name="9018429130_edcf1cb212.jpg" crc="126315757" ref="ldfit-diet-training">
+      <caption webpage="ldfit-diet-training" alt=""/>
+    </file>
+    <file name="u52438.png" crc="356866522" ref="ldfit-diet-training"/>
+    <file name="radiobuttonunchecked-u52438-ru.png" crc="143295266" ref="ldfit-diet-training"/>
+    <file name="radiobuttonuncheckedrollover-u52438-ru-r.png" crc="383728247" ref="ldfit-diet-training"/>
+    <file name="radiobuttonuncheckedmousedown-u52438-ru-m.png" crc="111434192" ref="ldfit-diet-training"/>
+    <file name="radiobuttonchecked-u52438-rc.png" crc="246566118" ref="ldfit-diet-training"/>
+    <file name="radiobuttoncheckedrollover-u52438-rc-r.png" crc="246566118" ref="ldfit-diet-training"/>
+    <file name="radiobuttoncheckedmousedown-u52438-rc-m.png" crc="246566118" ref="ldfit-diet-training"/>
+    <file name="u52435.png" crc="356866522" ref="ldfit-diet-training"/>
+    <file name="radiobuttonunchecked-u52435-ru.png" crc="143295266" ref="ldfit-diet-training"/>
+    <file name="radiobuttonuncheckedrollover-u52435-ru-r.png" crc="383728247" ref="ldfit-diet-training"/>
+    <file name="radiobuttonuncheckedmousedown-u52435-ru-m.png" crc="111434192" ref="ldfit-diet-training"/>
+    <file name="radiobuttonchecked-u52435-rc.png" crc="246566118" ref="ldfit-diet-training"/>
+    <file name="radiobuttoncheckedrollover-u52435-rc-r.png" crc="246566118" ref="ldfit-diet-training"/>
+    <file name="radiobuttoncheckedmousedown-u52435-rc-m.png" crc="246566118" ref="ldfit-diet-training"/>
+    <file name="u52424.png" crc="356866522" ref="ldfit-diet-training"/>
+    <file name="radiobuttonunchecked-u52424-ru.png" crc="143295266" ref="ldfit-diet-training"/>
+    <file name="radiobuttonuncheckedrollover-u52424-ru-r.png" crc="383728247" ref="ldfit-diet-training"/>
+    <file name="radiobuttonuncheckedmousedown-u52424-ru-m.png" crc="111434192" ref="ldfit-diet-training"/>
+    <file name="radiobuttonchecked-u52424-rc.png" crc="246566118" ref="ldfit-diet-training"/>
+    <file name="radiobuttoncheckedrollover-u52424-rc-r.png" crc="246566118" ref="ldfit-diet-training"/>
+    <file name="radiobuttoncheckedmousedown-u52424-rc-m.png" crc="246566118" ref="ldfit-diet-training"/>
+    <file name="u52428.png" crc="356866522" ref="ldfit-diet-training"/>
+    <file name="radiobuttonunchecked-u52428-ru.png" crc="143295266" ref="ldfit-diet-training"/>
+    <file name="radiobuttonuncheckedrollover-u52428-ru-r.png" crc="383728247" ref="ldfit-diet-training"/>
+    <file name="radiobuttonuncheckedmousedown-u52428-ru-m.png" crc="111434192" ref="ldfit-diet-training"/>
+    <file name="radiobuttonchecked-u52428-rc.png" crc="246566118" ref="ldfit-diet-training"/>
+    <file name="radiobuttoncheckedrollover-u52428-rc-r.png" crc="246566118" ref="ldfit-diet-training"/>
+    <file name="radiobuttoncheckedmousedown-u52428-rc-m.png" crc="246566118" ref="ldfit-diet-training"/>
+    <file name="u49026.png" crc="356866522" ref="ldfit-diet-training"/>
+    <file name="radiobuttonunchecked-u49026-ru.png" crc="143295266" ref="ldfit-diet-training"/>
+    <file name="radiobuttonuncheckedrollover-u49026-ru-r.png" crc="383728247" ref="ldfit-diet-training"/>
+    <file name="radiobuttonuncheckedmousedown-u49026-ru-m.png" crc="111434192" ref="ldfit-diet-training"/>
+    <file name="radiobuttonchecked-u49026-rc.png" crc="246566118" ref="ldfit-diet-training"/>
+    <file name="radiobuttoncheckedrollover-u49026-rc-r.png" crc="246566118" ref="ldfit-diet-training"/>
+    <file name="radiobuttoncheckedmousedown-u49026-rc-m.png" crc="246566118" ref="ldfit-diet-training"/>
+    <file name="u49029.png" crc="356866522" ref="ldfit-diet-training"/>
+    <file name="radiobuttonunchecked-u49029-ru.png" crc="143295266" ref="ldfit-diet-training"/>
+    <file name="radiobuttonuncheckedrollover-u49029-ru-r.png" crc="383728247" ref="ldfit-diet-training"/>
+    <file name="radiobuttonuncheckedmousedown-u49029-ru-m.png" crc="111434192" ref="ldfit-diet-training"/>
+    <file name="radiobuttonchecked-u49029-rc.png" crc="246566118" ref="ldfit-diet-training"/>
+    <file name="radiobuttoncheckedrollover-u49029-rc-r.png" crc="246566118" ref="ldfit-diet-training"/>
+    <file name="radiobuttoncheckedmousedown-u49029-rc-m.png" crc="246566118" ref="ldfit-diet-training"/>
+    <file name="u49041.png" crc="356866522" ref="ldfit-diet-training"/>
+    <file name="radiobuttonunchecked-u49041-ru.png" crc="143295266" ref="ldfit-diet-training"/>
+    <file name="radiobuttonuncheckedrollover-u49041-ru-r.png" crc="383728247" ref="ldfit-diet-training"/>
+    <file name="radiobuttonuncheckedmousedown-u49041-ru-m.png" crc="111434192" ref="ldfit-diet-training"/>
+    <file name="radiobuttonchecked-u49041-rc.png" crc="246566118" ref="ldfit-diet-training"/>
+    <file name="radiobuttoncheckedrollover-u49041-rc-r.png" crc="246566118" ref="ldfit-diet-training"/>
+    <file name="radiobuttoncheckedmousedown-u49041-rc-m.png" crc="246566118" ref="ldfit-diet-training"/>
+    <file name="u49039.png" crc="356866522" ref="ldfit-diet-training"/>
+    <file name="radiobuttonunchecked-u49039-ru.png" crc="143295266" ref="ldfit-diet-training"/>
+    <file name="radiobuttonuncheckedrollover-u49039-ru-r.png" crc="383728247" ref="ldfit-diet-training"/>
+    <file name="radiobuttonuncheckedmousedown-u49039-ru-m.png" crc="111434192" ref="ldfit-diet-training"/>
+    <file name="radiobuttonchecked-u49039-rc.png" crc="246566118" ref="ldfit-diet-training"/>
+    <file name="radiobuttoncheckedrollover-u49039-rc-r.png" crc="246566118" ref="ldfit-diet-training"/>
+    <file name="radiobuttoncheckedmousedown-u49039-rc-m.png" crc="246566118" ref="ldfit-diet-training"/>
+    <file name="pexels-photo-196640.jpg" crc="3795197486" ref="ldfit-30-day-challenge">
+      <caption webpage="ldfit-30-day-challenge" alt=""/>
+    </file>
+    <file name="model-with-kettlebell-sexist-stock.jpg" crc="4076675825" ref="ldfit-30-day-challenge">
+      <caption webpage="ldfit-30-day-challenge" alt=""/>
+    </file>
+    <file name="photo jul 20, 7 01 38 pm.jpg" crc="3811979285" ref="ldfit-30-day-challenge">
+      <caption webpage="ldfit-30-day-challenge" alt=""/>
+    </file>
+    <file name="32932079915_68398e3692_b.jpg" crc="3912697623" ref="ldfit-30-day-challenge">
+      <caption webpage="ldfit-30-day-challenge" alt=""/>
+    </file>
+    <file name="u46790.png" crc="356866522" ref="ldfit-30-day-challenge"/>
+    <file name="radiobuttonunchecked-u46790-ru.png" crc="143295266" ref="ldfit-30-day-challenge"/>
+    <file name="radiobuttonuncheckedrollover-u46790-ru-r.png" crc="383728247" ref="ldfit-30-day-challenge"/>
+    <file name="radiobuttonuncheckedmousedown-u46790-ru-m.png" crc="111434192" ref="ldfit-30-day-challenge"/>
+    <file name="radiobuttonchecked-u46790-rc.png" crc="246566118" ref="ldfit-30-day-challenge"/>
+    <file name="radiobuttoncheckedrollover-u46790-rc-r.png" crc="246566118" ref="ldfit-30-day-challenge"/>
+    <file name="radiobuttoncheckedmousedown-u46790-rc-m.png" crc="246566118" ref="ldfit-30-day-challenge"/>
+    <file name="u46795.png" crc="356866522" ref="ldfit-30-day-challenge"/>
+    <file name="radiobuttonunchecked-u46795-ru.png" crc="143295266" ref="ldfit-30-day-challenge"/>
+    <file name="radiobuttonuncheckedrollover-u46795-ru-r.png" crc="383728247" ref="ldfit-30-day-challenge"/>
+    <file name="radiobuttonuncheckedmousedown-u46795-ru-m.png" crc="111434192" ref="ldfit-30-day-challenge"/>
+    <file name="radiobuttonchecked-u46795-rc.png" crc="246566118" ref="ldfit-30-day-challenge"/>
+    <file name="radiobuttoncheckedrollover-u46795-rc-r.png" crc="246566118" ref="ldfit-30-day-challenge"/>
+    <file name="radiobuttoncheckedmousedown-u46795-rc-m.png" crc="246566118" ref="ldfit-30-day-challenge"/>
+    <file name="u46811.png" crc="356866522" ref="ldfit-30-day-challenge"/>
+    <file name="radiobuttonunchecked-u46811-ru.png" crc="143295266" ref="ldfit-30-day-challenge"/>
+    <file name="radiobuttonuncheckedrollover-u46811-ru-r.png" crc="383728247" ref="ldfit-30-day-challenge"/>
+    <file name="radiobuttonuncheckedmousedown-u46811-ru-m.png" crc="111434192" ref="ldfit-30-day-challenge"/>
+    <file name="radiobuttonchecked-u46811-rc.png" crc="246566118" ref="ldfit-30-day-challenge"/>
+    <file name="radiobuttoncheckedrollover-u46811-rc-r.png" crc="246566118" ref="ldfit-30-day-challenge"/>
+    <file name="radiobuttoncheckedmousedown-u46811-rc-m.png" crc="246566118" ref="ldfit-30-day-challenge"/>
+    <file name="u46807.png" crc="356866522" ref="ldfit-30-day-challenge"/>
+    <file name="radiobuttonunchecked-u46807-ru.png" crc="143295266" ref="ldfit-30-day-challenge"/>
+    <file name="radiobuttonuncheckedrollover-u46807-ru-r.png" crc="383728247" ref="ldfit-30-day-challenge"/>
+    <file name="radiobuttonuncheckedmousedown-u46807-ru-m.png" crc="111434192" ref="ldfit-30-day-challenge"/>
+    <file name="radiobuttonchecked-u46807-rc.png" crc="246566118" ref="ldfit-30-day-challenge"/>
+    <file name="radiobuttoncheckedrollover-u46807-rc-r.png" crc="246566118" ref="ldfit-30-day-challenge"/>
+    <file name="radiobuttoncheckedmousedown-u46807-rc-m.png" crc="246566118" ref="ldfit-30-day-challenge"/>
   </folder>
-  <folder name="phone">
-    <folder name="css">
-      <file name="master_www_lauriediannafit_com.css" crc="516078807" ref="phone>ldfit-diet-training-submission-form:phone>ldfit-30-day-challenge:phone>ldfit-30-day-challenge-submission-form:phone>ldfit-diet-training:phone>index:phone>ldfit-personal-training-submission-form:phone>ldfit-exercise-training:phone>contact:phone>about:phone>ldfit-exercise-training-submission-form:phone>ldfit-personal-training:phone>training"/>
-      <file name="ldfit-diet-training-submission-form.css" crc="25304668" ref="phone>ldfit-diet-training-submission-form"/>
-      <file name="ldfit-30-day-challenge.css" crc="4229422318" ref="phone>ldfit-30-day-challenge"/>
-      <file name="ldfit-30-day-challenge-submission-form.css" crc="25304668" ref="phone>ldfit-30-day-challenge-submission-form"/>
-      <file name="ldfit-diet-training.css" crc="526768114" ref="phone>ldfit-diet-training"/>
-      <file name="index.css" crc="4234083565" ref="phone>index"/>
-      <file name="ldfit-personal-training-submission-form.css" crc="25304668" ref="phone>ldfit-personal-training-submission-form"/>
-      <file name="ldfit-exercise-training.css" crc="4188066030" ref="phone>ldfit-exercise-training"/>
-      <file name="contact.css" crc="3886990555" ref="phone>contact"/>
-      <file name="about.css" crc="88316953" ref="phone>about"/>
-      <file name="ldfit-exercise-training-submission-form.css" crc="25304668" ref="phone>ldfit-exercise-training-submission-form"/>
-      <file name="ldfit-personal-training.css" crc="16452166" ref="phone>ldfit-personal-training"/>
-      <file name="training.css" crc="3924649222" ref="phone>training"/>
-    </folder>
-    <file name="index.html" crc="3758912207" seo="true" mt="1500838016711" redirect="true"/>
-    <file name="about.html" crc="441099054" seo="true" mt="1500831726708" redirect="true"/>
-    <file name="training.html" crc="4146946491" seo="true" mt="1500837751226" redirect="true"/>
-    <file name="ldfit-30-day-challenge.html" crc="3853969731" seo="true" mt="1500837877680" redirect="true"/>
-    <file name="ldfit-diet-training.html" crc="3875687187" seo="true" mt="1500837821206" redirect="true"/>
-    <file name="ldfit-exercise-training.html" crc="4190161863" seo="true" mt="1500835398511" redirect="true"/>
-    <file name="contact.html" crc="3771032719" seo="true" mt="1500831726708" redirect="true"/>
-    <file name="ldfit-personal-training.html" crc="235757275" seo="true" mt="1500838097762" redirect="true"/>
-    <file name="ldfit-30-day-challenge-submission-form.html" crc="297500207" seo="true" mt="1500831726708" redirect="true"/>
-    <file name="ldfit-exercise-training-submission-form.html" crc="364100294" seo="true" mt="1500831726708" redirect="true"/>
-    <file name="ldfit-diet-training-submission-form.html" crc="469160374" seo="true" mt="1500831726708" redirect="true"/>
-    <file name="ldfit-personal-training-submission-form.html" crc="4191498526" seo="true" mt="1500831726708" redirect="true"/>
-  </folder>
-  <file name="index.html" crc="32515437" seo="true" mt="1500837448315" redirect="true"/>
-  <file name="training.html" crc="72844508" seo="true" mt="1500837448315" redirect="true"/>
-  <file name="about.html" crc="364581444" seo="true" mt="1500837448315" redirect="true"/>
-  <file name="contact.html" crc="28597793" seo="true" mt="1500837448315" redirect="true"/>
-  <file name="faith-strengthpdf.html" crc="4241371180" seo="true" mt="1500837448315" redirect="true"/>
-  <file name="fitfunglutepdf.html" crc="376217480" seo="true" mt="1500837448315" redirect="true"/>
-  <file name="summerbodwlosspdf.html" crc="70009238" seo="true" mt="1500837448315" redirect="true"/>
+  <file name="index.html" crc="3926009039" seo="true" mt="1501531955026" redirect="true"/>
+  <file name="training.html" crc="4009980804" seo="true" mt="1501531955026" redirect="true"/>
+  <file name="about.html" crc="3905563731" seo="true" mt="1501531955026" redirect="true"/>
+  <file name="contact.html" crc="20670538" seo="true" mt="1501531955026" redirect="true"/>
+  <file name="faith-strengthpdf.html" crc="4184619458" seo="true" mt="1501531955026" redirect="true"/>
+  <file name="fitfunglutepdf.html" crc="420901340" seo="true" mt="1501531955026" redirect="true"/>
+  <file name="summerbodwlosspdf.html" crc="371929795" seo="true" mt="1501531955026" redirect="true"/>
+  <file name="ldfit-personal-training.html" crc="3874415680" seo="true" mt="1501532166154" redirect="true"/>
+  <file name="ldfit-exercise-training.html" crc="4242420799" seo="true" mt="1501532166154" redirect="true"/>
+  <file name="ldfit-diet-training.html" crc="3898306514" seo="true" mt="1501532166154" redirect="true"/>
+  <file name="ldfit-30-day-challenge.html" crc="3936585320" seo="true" mt="1501532166154" redirect="true"/>
 </manifest>

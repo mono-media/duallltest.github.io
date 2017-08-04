@@ -59,20 +59,6 @@ $form = array(
 				'required' => 'Field \'Message\' is required.'
 			)
 		),
-		'custom_U46788' => array(
-			'order' => 1,
-			'type' => 'radiogroup',
-			'label' => 'Radio Button Group',
-			'required' => true,
-			'optionItems' => array(
-				'MALE',
-				'FEMALE'
-			),
-			'errors' => array(
-				'required' => 'Field \'Radio Button Group\' is required.',
-				'format' => 'Field \'Radio Button Group\' has an invalid value.'
-			)
-		),
 		'custom_U46803' => array(
 			'order' => 2,
 			'type' => 'radiogroup',
@@ -81,6 +67,20 @@ $form = array(
 			'optionItems' => array(
 				'GAIN MUSCLE MASS',
 				'LOSE EXCESS BODY FAT'
+			),
+			'errors' => array(
+				'required' => 'Field \'Radio Button Group\' is required.',
+				'format' => 'Field \'Radio Button Group\' has an invalid value.'
+			)
+		),
+		'custom_U46788' => array(
+			'order' => 1,
+			'type' => 'radiogroup',
+			'label' => 'Radio Button Group',
+			'required' => true,
+			'optionItems' => array(
+				'MALE',
+				'FEMALE'
 			),
 			'errors' => array(
 				'required' => 'Field \'Radio Button Group\' is required.',
